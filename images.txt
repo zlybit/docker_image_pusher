@@ -1,1 +1,7 @@
 docker.io/willfarrell/autoheal
+docker.io/pgvector/pgvector:0.7.0-pg15
+docker.io/mongo:5.0.18
+ghcr.io/labring/fastgpt-sandbox:latest
+ghcr.io/labring/fastgpt:v4.8.5
+ghcr.io/songquanpeng/one-api:latest
+docker.io/mysql:8.0.36
