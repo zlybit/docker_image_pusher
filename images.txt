@@ -1,1 +1,2 @@
+nginx:1.21
 quay.io/fabxc/prometheus_demo_service
