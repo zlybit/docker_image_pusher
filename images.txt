@@ -1,3 +1,4 @@
+httpd:2.4.51
 nginx:1.21
 quay.io/fabxc/prometheus_demo_service
-httpd:2.4.51
+
