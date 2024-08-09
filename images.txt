@@ -1,4 +1,4 @@
-rabbitmq:3.8
 httpd:2.4.51
 nginx:1.21
 quay.io/fabxc/prometheus_demo_service
+rabbitmq:3.8
