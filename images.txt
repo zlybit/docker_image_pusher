@@ -4,3 +4,4 @@ jmgao1983/nfs-client-provisioner:latest
 ghcr.io/labring/fastgpt:latest
 minio/minio:RELEASE.2024-09-22T00-33-43Z
 minio/minio:RELEASE.2024-09-22T00-33-43Z-cpuv1
+gitlab/gitlab-ce:17.3.4-ce.0
