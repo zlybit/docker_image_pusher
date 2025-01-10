@@ -13,4 +13,4 @@ ubuntu:22.04
 --platform=linux/arm64 nginx:1.21
 --platform=linux/arm64/v8 ubuntu:22.04
 --platform=linux/arm64/v8 postgres:15.9
---platform=linux/arm64/v8 centos:centos7.9.2009
+--platform=linux/arm64/v8 centos:7.9.2009
