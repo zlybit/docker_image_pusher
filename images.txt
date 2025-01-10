@@ -11,3 +11,4 @@ ubuntu:22.04
 --platform=linux/arm64 redis:6.2.16
 --platform=linux/arm64 pgvector/pgvector:0.8.0-pg15
 --platform=linux/arm64 nginx:1.21
+--platform=linux/arm64/v8 ubuntu:22.04
