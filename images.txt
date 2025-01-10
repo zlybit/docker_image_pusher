@@ -6,4 +6,7 @@ nvidia/cuda:12.4.0-runtime-ubuntu22.04
 ubuntu:24.10
 ubuntu:24.04
 ubuntu:22.04
---platform=linux/arm64  minio/minio:RELEASE.2024-12-18T13-15-44Z
+--platform=linux/arm64 minio/minio:RELEASE.2024-12-18T13-15-44Z
+--platform=linux/arm64 rabbitmq:3.13.6-management
+--platform=linux/arm64 redis:6.2.16
+--platform=linux/arm64 pgvector/pgvector:0.8.0-pg15
