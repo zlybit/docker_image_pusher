@@ -16,3 +16,13 @@ ubuntu:22.04
 --platform=linux/arm64/v8 centos:7.9.2009
 --platform=linux/arm64 openeuler/openeuler:22.03-lts-sp4
 gitlab/gitlab-ce:17.8.0-ce.0
+ghcr.io/labring/fastgpt:v4.8.20-fix2
+ghcr.io/labring/fastgpt:v4.8.19-beta
+ghcr.io/labring/fastgpt:v4.8.18-fix
+ghcr.io/labring/fastgpt:v4.8.17-fix-title
+ghcr.io/labring/fastgpt:v4.8.16
+ghcr.io/labring/fastgpt-sandbox:v4.8.16
+ghcr.io/labring/fastgpt:v4.8.15-fix3
+ghcr.io/labring/fastgpt:v4.8.14-fix
+ghcr.io/labring/fastgpt:v4.8.13-fix
+ghcr.io/labring/fastgpt:v4.8.12-fix
