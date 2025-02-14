@@ -27,3 +27,4 @@ ghcr.io/labring/fastgpt:v4.8.14-fix
 ghcr.io/labring/fastgpt:v4.8.13-fix
 ghcr.io/labring/fastgpt:v4.8.12-fix
 mysql:8.0.22
+elasticsearch:7.17.27
