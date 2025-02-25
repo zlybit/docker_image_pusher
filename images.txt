@@ -16,6 +16,8 @@ ubuntu:22.04
 --platform=linux/arm64/v8 centos:7.9.2009
 --platform=linux/arm64 openeuler/openeuler:22.03-lts-sp4
 gitlab/gitlab-ce:17.8.0-ce.0
+ghcr.io/labring/fastgpt:v4.8.22
+ghcr.io/labring/fastgpt:v4.8.21-fix
 ghcr.io/labring/fastgpt:v4.8.20-fix2
 ghcr.io/labring/fastgpt:v4.8.19-beta
 ghcr.io/labring/fastgpt:v4.8.18-fix
