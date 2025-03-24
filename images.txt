@@ -31,5 +31,4 @@ ghcr.io/labring/fastgpt:v4.8.12-fix
 mysql:8.0.22
 elasticsearch:7.17.27
 elasticsearch:7.16.2
-moby/buildkit:buildx-stable-1
-
+openjdk:8u342-oraclelinux8
