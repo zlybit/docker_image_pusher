@@ -32,3 +32,4 @@ mysql:8.0.22
 elasticsearch:7.17.27
 elasticsearch:7.16.2
 openjdk:8u342-oraclelinux8
+--platform=linux/arm64/v8 openjdk:8u342-oraclelinux8
