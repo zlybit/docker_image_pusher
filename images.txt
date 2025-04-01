@@ -34,6 +34,7 @@ elasticsearch:7.16.2
 openjdk:8u342-oraclelinux8
 --platform=linux/arm64/v8 openjdk:8u342-oraclelinux8
 --platform=linux/arm64/v8 openjdk:8u342-slim
+--platform=linux/arm64/v8 ubuntu:24.04
 openjdk:8u342-slim
 gitlab/gitlab-ee:17.4.5-ee.0
 jenkins/jenkins:2.479.2-jdk17
