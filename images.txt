@@ -38,3 +38,16 @@ openjdk:8u342-oraclelinux8
 openjdk:8u342-slim
 gitlab/gitlab-ee:17.4.5-ee.0
 jenkins/jenkins:2.479.2-jdk17
+ghcr.io/labring/fastgpt:v4.8.23-fix
+ghcr.io/labring/fastgpt:v4.9.0
+pgvector/pgvector:v0.8.0-pg15
+ghcr.io/labring/fastgpt:v4.9.1-fix2
+ghcr.io/labring/fastgpt:
+ghcr.io/labring/fastgpt:v4.9.3
+ghcr.io/labring/fastgpt-sandbox:v4.9.3
+ghcr.io/labring/fastgpt:v4.9.4
+ghcr.io/labring/fastgpt:v4.9.5
+ghcr.io/labring/fastgpt:v4.9.6
+ghcr.io/labring/fastgpt-mcp_server:v4.9.6
+ghcr.io/labring/fastgpt-sandbox:v4.9.6
+ghcr.io/labring/fastgpt:v4.9.7-fix2
