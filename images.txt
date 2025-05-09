@@ -1,6 +1,5 @@
 ghcr.io/labring/fastgpt:v4.8.11-fix
 ghcr.io/labring/fastgpt-sandbox:v4.8.11
-ghcr.io/labring/fastgpt:v4.8.10
 nvidia/cuda:12.2.0-runtime-ubuntu22.04
 nvidia/cuda:12.4.0-runtime-ubuntu22.04
 ubuntu:24.10
