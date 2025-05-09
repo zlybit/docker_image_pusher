@@ -1,1 +1,1 @@
-docker.io/pgvector/pgvector:v0.8.0-pg15
+pgvector/pgvector:0.8.0-pg15
