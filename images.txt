@@ -2,7 +2,6 @@ ghcr.io/labring/fastgpt:v4.8.23-fix
 ghcr.io/labring/fastgpt:v4.9.0
 pgvector/pgvector:v0.8.0-pg15
 ghcr.io/labring/fastgpt:v4.9.1-fix2
-ghcr.io/labring/fastgpt:
 ghcr.io/labring/fastgpt:v4.9.3
 ghcr.io/labring/fastgpt-sandbox:v4.9.3
 ghcr.io/labring/fastgpt:v4.9.4
