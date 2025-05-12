@@ -1,2 +1,4 @@
 pgvector/pgvector:0.8.0-pg15
 ghcr.io/labring/aiproxy:latest
+ghcr.io/labring/aiproxy:v0.1.5
+redis:7.2-alpine
