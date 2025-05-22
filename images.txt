@@ -1,1 +1,2 @@
-redis:7.2-alpine
+ghcr.io/labring/fastgpt:v4.9.8
+ghcr.io/labring/fastgpt:v4.9.9
