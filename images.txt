@@ -1,1 +1,4 @@
-ghcr.io/labring/fastgpt:v4.9.10
+ghcr.io/labring/fastgpt-sandbox:v4.9.11
+ghcr.io/labring/fastgpt-mcp_server:v4.9.11
+ghcr.io/labring/fastgpt:v4.9.11
+ghcr.io/labring/aiproxy:v0.1.7
