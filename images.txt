@@ -3,4 +3,5 @@ ghcr.io/labring/fastgpt-mcp_server:v4.9.11
 ghcr.io/labring/fastgpt:v4.9.11
 ghcr.io/labring/aiproxy:v0.1.7
 redis:7.2.11-alpine
+redis:6.2.20
 redis:7.2.11
