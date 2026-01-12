@@ -5,4 +5,4 @@ ghcr.io/labring/aiproxy:v0.1.7
 redis:7.2.11-alpine
 redis:6.2.20
 redis:7.2.11
-apisix:3.9.0-alpine
+apache/apisix:3.9.0-debian
