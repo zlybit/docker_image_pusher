@@ -7,3 +7,4 @@ redis:6.2.20
 redis:7.2.11
 apache/apisix:3.9.0-debian
 ubuntu:24.04
+alpine:3.23.2
