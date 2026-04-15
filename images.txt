@@ -9,3 +9,4 @@ apache/apisix:3.9.0-debian
 ubuntu:24.04
 alpine:3.23.2
 postgres:9.6.12
+mysql:5.7
