@@ -16,3 +16,6 @@ redis:5.0.14
 --platform=linux/arm64 openjdk:17.0.2-jdk-bullseye
 --platform=linux/arm64 mysql:8.0.31
 --platform=linux/arm64 redis:6.0.9
+redis:8.4.0
+nginx:1.28
+openjdk:17.0.2-jdk-bullseye
