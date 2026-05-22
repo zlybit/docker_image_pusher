@@ -19,3 +19,5 @@ redis:5.0.14
 redis:8.4.0
 nginx:1.28
 openjdk:17.0.2-jdk-bullseye
+postgres:17.10
+redis:8.6.3
