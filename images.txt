@@ -22,3 +22,4 @@ openjdk:17.0.2-jdk-bullseye
 postgres:17.10
 redis:8.6.3
 elasticsearch:9.4.3
+--platform=linux/arm64 elasticsearch:9.4.3
