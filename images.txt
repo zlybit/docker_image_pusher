@@ -1,3 +1,5 @@
 httpd:2.4.68
 --platform=linux/arm64 rabbitmq:4.3.6-management
 rabbitmq:4.3.6-management
+openjdk:17-jdk-slim
+--platform=linux/arm64 openjdk:17-jdk-slim
