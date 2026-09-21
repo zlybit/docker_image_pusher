@@ -1,8 +1,2 @@
-httpd:2.4.68
---platform=linux/arm64 rabbitmq:4.3.6-management
-rabbitmq:4.3.6-management
---platform=linux/arm64 openjdk:17.0.2-jdk-bullseye
-openjdk:17.0.2-jdk-bullseye
-moby/buildkit:buildx-stable-1
 nacos/nacos-server:v3.2.4
 --platform=linux/arm64 nacos/nacos-server:v3.2.4
